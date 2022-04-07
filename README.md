@@ -3,3 +3,4 @@ Aqui mas recursos para aprender un poco mas sobre Markdown: https://www.markdown
 https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week01
 https://pandao.github.io/editor.md/en.html
 https://valuta.exchange/es/usd-to-btc
+Binary https://www.youtube.com/watch?v=RrJXLdv1i74
