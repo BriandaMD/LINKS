@@ -10,3 +10,4 @@ Expresiones y operadores - JavaScript | MDN developer.mozilla.org   Este capítu
 
 LINKS DE de LA SEmANA https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week01#session-links-
 
+ vídeo explicando la condicional "if": https://www.youtube.com/watch?v=IsG4Xd6LlsM&t=322s
