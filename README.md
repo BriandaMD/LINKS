@@ -11,3 +11,10 @@ Expresiones y operadores - JavaScript | MDN developer.mozilla.org   Este capítu
 LINKS DE de LA SEmANA https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week01#session-links-
 
  vídeo explicando la condicional "if": https://www.youtube.com/watch?v=IsG4Xd6LlsM&t=322s
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+
+Agendar cita con Cristobal Samayoa CORE code dudas 
+https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1nMp7I6h-j-szJnmTFHOeuNmkpeLzH2i1MGQkA86FPKHEWZeX7SSCbXh-GFx7q-Oq136pJHiNd
+
