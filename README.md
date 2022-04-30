@@ -32,7 +32,11 @@ tryshowtime.comtryshowtime.com
 Showtime is a social network to browse and show off your NFTs across Foundation, Zora, Superrare and more!
 
 
+Arrow functions, high order functions y mas
+https://www.youtube.com/watch?v=H4awPsyugS0&list=PLRqwX-V7Uu6aAEUqu96Newc-7qpuh-cxc&index=1
 
+info acerca de MAP, y ejemplos para su uso
+https://eolnuha.com/javascript/javascript-maps
 
 
 
