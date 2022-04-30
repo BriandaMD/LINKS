@@ -18,3 +18,23 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_liter
 Agendar cita con Cristobal Samayoa CORE code dudas 
 https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1nMp7I6h-j-szJnmTFHOeuNmkpeLzH2i1MGQkA86FPKHEWZeX7SSCbXh-GFx7q-Oq136pJHiNd
 
+Spread Syntax, está on fire: https://www.youtube.com/watch?v=m-yLo3mh4To
+
+
+https://www.guatemala.com/noticias/sociedad/core-code-programa-ofrece-capacitacion-aplicar-trabajos-guatemala.html
+Guatemala.comGuatemala.com
+Core Code, el programa de capacitación intensiva con el que tienes acceso a empleos
+Core Code es programa de capacitación intensiva de 2 meses de QA Automation Testing con el que tendrás acceso a una red de empresas.
+Eso fue pal programa de QA
+
+https://tryshowtime.com/   BlockChain
+tryshowtime.comtryshowtime.com
+Showtime is a social network to browse and show off your NFTs across Foundation, Zora, Superrare and more!
+
+
+
+
+
+
+
+
