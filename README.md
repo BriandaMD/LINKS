@@ -40,5 +40,17 @@ https://eolnuha.com/javascript/javascript-maps
 
 
 
+cómo utilizar Regex
+https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6
+
+
+
+https://youtu.be/kVgy1GSDHG8
+YouTubeYouTube | Nicholas T.
+Coding Interviews Be Like 
+
+
+
+
 
 
